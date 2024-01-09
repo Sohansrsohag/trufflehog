@@ -41,7 +41,7 @@ require (
 	github.com/razorpay/razorpay-go v0.0.0-20210728161131-0341409a6ab2
 	github.com/rs/zerolog v1.27.0
 	github.com/sergi/go-diff v1.2.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.8.0
 	github.com/tailscale/depaware v0.0.0-20210622194025-720c4b409502
 	github.com/xanzy/go-gitlab v0.73.1
